@@ -6,6 +6,6 @@ dependencies:
   - xeus-python
   - cartopy
   - obspy
-  - matplotlib
+  - kiwisolver
   - scipy
   - numpy
