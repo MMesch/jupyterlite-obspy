@@ -8,4 +8,4 @@ dependencies:
   - obspy
   - kiwisolver
   - scipy
-  - numpy
+  - numpy <2.3
