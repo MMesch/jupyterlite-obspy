@@ -1,6 +1,6 @@
 # Obspy Emscripten Forge Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://mmesch/jupyterlite-obspy)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://mmesch.com/jupyterlite-obspy)
 
 
 This repository demonstrates how Obspy can be deployed to run directly in the
