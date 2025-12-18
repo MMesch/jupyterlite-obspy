@@ -7,5 +7,6 @@ dependencies:
   - cartopy
   - obspy
   - kiwisolver
+  - pyodide-http
   - scipy
   - numpy <2.3
