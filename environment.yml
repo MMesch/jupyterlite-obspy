@@ -10,3 +10,5 @@ dependencies:
   - pyodide-http
   - scipy
   - numpy <2.3
+  - pip:
+    - jupytergis-lab
