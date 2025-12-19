@@ -9,7 +9,9 @@ dependencies:
   - kiwisolver
   - scipy
   - numpy <2.3
+  - pandas
   - pip:
     - pyodide-http
     - geopandas
+    - jupytergis
     - jupytergis-lab
