@@ -10,8 +10,8 @@ dependencies:
   - scipy
   - numpy <2.3
   - pandas
+  - jupytergis-lite
   - pip:
     - pyodide-http
     - geopandas
-    - jupytergis
     - jupytergis-lab
