@@ -7,8 +7,8 @@ dependencies:
   - cartopy
   - obspy
   - kiwisolver
-  - pyodide-http
   - scipy
   - numpy <2.3
   - pip:
+    - pyodide-http
     - jupytergis-lab
